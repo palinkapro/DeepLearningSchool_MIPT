@@ -1,1 +1,1 @@
-# DeepLearningSchool_MIPT
+# DeepLearningSchool_MIPT (base) 1st term
